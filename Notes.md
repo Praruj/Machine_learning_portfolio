@@ -46,7 +46,7 @@
 **Algorithms in Unsupervised Ml**
 1. K Means
 2. DBscan
-3. K nearest Neighbout
+3. K nearest Neighbour
 4. PCA
 5. LDA
 6. Hierarchical Clustering
