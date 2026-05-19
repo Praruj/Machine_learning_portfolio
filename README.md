@@ -1,10 +1,3 @@
-```markdown
-# Machine_learning_portfolio
-
-My Machine Learning portfolio – practicing and implementing algorithms from scratch as I learn.
-
----
-
 # Machine Learning Portfolio 📊
 
 Welcome to my Machine Learning journey! 🚀  
@@ -17,7 +10,8 @@ The goal is to deepen my understanding, experiment with concepts, and showcase c
 ---
 
 ## 📌 Current Progress
-- Just getting started!
+
+- Currently building foundational ML implementations from scratch.
 - Implemented:
   - **Linear Regression** (Simple & Multiple)
 
@@ -25,8 +19,7 @@ The goal is to deepen my understanding, experiment with concepts, and showcase c
 
 ## 📁 Repository Structure
 
-```
-
+```text
 .
 ├── linear_regression/              # Linear Regression implementations
 │   ├── linear_regression.ipynb     # Theory, code, and visualizations
@@ -35,8 +28,7 @@ The goal is to deepen my understanding, experiment with concepts, and showcase c
 ├── requirements.txt                # Project dependencies
 ├── .gitignore
 └── README.md                       # This file
-
-````
+```
 
 ---
 
@@ -55,7 +47,6 @@ As my studies continue, I plan to add:
 - Deep Learning
 - NLP & Computer Vision
 
-
 ---
 
 ## ⚙️ Setup (Recommended)
@@ -63,10 +54,11 @@ As my studies continue, I plan to add:
 This project uses a virtual environment for clean dependency management.
 
 ### 1️⃣ Clone the repository
+
 ```bash
 git clone https://github.com/Praruj/Machine_learning_portfolio.git
-cd your-repo-name
-````
+cd Machine_learning_portfolio
+```
 
 ### 2️⃣ Create & activate virtual environment
 
@@ -97,3 +89,32 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
+
+---
+
+## 🎯 Goals
+
+- Strengthen core machine learning concepts
+- Build algorithms from scratch
+- Improve problem-solving skills
+- Maintain clean and readable code
+- Document learning progress consistently
+
+---
+
+## 📚 Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+## ⭐ Future Vision
+
+This repository will gradually evolve into a complete machine learning reference containing theory, implementations, experiments, and projects.
+
+Stay tuned for more updates 🚀
