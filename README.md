@@ -21,9 +21,9 @@ The goal is to deepen my understanding, experiment with concepts, and showcase c
 
 ```text
 .
-├── linear_regression/              # Linear Regression implementations
-│   ├── linear_regression.ipynb     # Theory, code, and visualizations
-│   └── data/                       # Sample datasets
+├── Datasets
+├── notebooks
+├── small_projects
 ├── .venv/                          # Virtual environment (gitignored)
 ├── requirements.txt                # Project dependencies
 ├── .gitignore
