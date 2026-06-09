@@ -11,9 +11,9 @@ The goal is to deepen my understanding, experiment with concepts, and showcase c
 
 ## 📌 Current Progress
 
-- Currently building foundational ML implementations from scratch.
+- Currently building foundational ANN and CNN implementations from pytorch.
 - Implemented:
-  - **Linear Regression** (Simple & Multiple)
+  - **Deep Learning** 
 
 ---
 
