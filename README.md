@@ -1,120 +1,194 @@
 # Machine Learning Portfolio 📊
 
-Welcome to my Machine Learning journey! 🚀  
-This repository is my personal portfolio where I implement and practice various machine learning algorithms as I progress through my studies.
+<p align="center">
+  <a href="#english" style="text-decoration:none;">
+    <span style="background:#00ff9d;color:#000;padding:8px 16px;border-radius:4px;font-weight:bold;">🇬🇧 English</span>
+  </a>
+     
+  <a href="#japanese" style="text-decoration:none;">
+    <span style="background:transparent;color:#00ff9d;border:1px solid #00ff9d;padding:8px 16px;border-radius:4px;">🇯🇵 日本語</span>
+  </a>
+</p>
 
-I start from the basics and gradually move to more advanced topics. New folders, notebooks, and implementations will be added regularly as I learn and practice daily.
+---
+
+### <span id="english">🇬🇧 English Version</span>
+
+**Welcome to my Machine Learning journey!** 🚀
+
+This repository is my personal portfolio where I implement and practice various machine learning algorithms as I progress through my studies. I start from the basics and gradually move toward more advanced topics.
 
 The goal is to deepen my understanding, experiment with concepts, and showcase clean, well-documented code.
 
----
-
 ## 📌 Current Progress
-
-- Currently building foundational ANN and CNN implementations from pytorch.
-- Implemented:
-  - **Deep Learning** 
-
----
+- Building foundational **ANN** and **CNN** implementations using PyTorch
+- Implemented: **Deep Learning**
 
 ## 📁 Repository Structure
-
 ```text
 .
 ├── Datasets
 ├── notebooks
+│   ├── 01.Linear_Regression
+│   ├── 02.Clustering
+│   ├── 03.Decision_tree
+│   ├── 04.Random_forest
+│   ├── 05.KNN
+│   ├── 06.SVM
+│   ├── 07.Deep_Learning
+│   └── 08.Image_Processing
 ├── small_projects
-├── .venv/                          # Virtual environment (gitignored)
-├── requirements.txt                # Project dependencies
-├── .gitignore
-└── README.md                       # This file
+├── requirements.txt
+└── README.md
 ```
 
----
-
 ## 🚀 Planned Additions
-
-As my studies continue, I plan to add:
-
 - Logistic Regression
 - Decision Trees & Random Forests
 - K-Nearest Neighbors (KNN)
 - Support Vector Machines (SVM)
 - K-Means Clustering
 - Principal Component Analysis (PCA)
-- Neural Networks (from scratch + TensorFlow / PyTorch)
+- Advanced Neural Networks (PyTorch / TensorFlow)
 - Ensemble Methods
-- Deep Learning
-- NLP & Computer Vision
+- NLP & Computer Vision projects
 
----
+## ⚙️ Setup
 
-## ⚙️ Setup (Recommended)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Praruj/Machine_learning_portfolio.git
+   cd Machine_learning_portfolio
+   ```
 
-This project uses a virtual environment for clean dependency management.
+2. Create & activate virtual environment:
 
-### 1️⃣ Clone the repository
+   **Windows**
+   ```bash
+   python -m venv .venv
+   .venv\Scripts\activate
+   ```
 
-```bash
-git clone https://github.com/Praruj/Machine_learning_portfolio.git
-cd Machine_learning_portfolio
-```
+   **macOS / Linux**
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate
+   ```
 
-### 2️⃣ Create & activate virtual environment
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-```bash
-python -m venv .venv
-```
-
-**Windows**
-
-```bash
-.venv\Scripts\activate
-```
-
-**macOS / Linux**
-
-```bash
-source .venv/bin/activate
-```
-
-### 3️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4️⃣ Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
----
-
-## 🎯 Goals
-
-- Strengthen core machine learning concepts
-- Build algorithms from scratch
-- Improve problem-solving skills
-- Maintain clean and readable code
-- Document learning progress consistently
-
----
+4. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
 
 ## 📚 Technologies Used
-
 - Python
-- NumPy
-- Pandas
-- Matplotlib
+- PyTorch
+- NumPy, Pandas, Matplotlib
 - Scikit-learn
 - Jupyter Notebook
 
 ---
 
-## ⭐ Future Vision
+Thank you for visiting! Feel free to explore and reach out if you have any questions or collaboration ideas.
 
-This repository will gradually evolve into a complete machine learning reference containing theory, implementations, experiments, and projects.
+[Visit my GitHub Profile](https://github.com/Praruj)
 
-Stay tuned for more updates 🚀
+---
+
+### <span id="japanese">🇯🇵 日本語版</span>
+
+**機械学習ポートフォリオ** 📊
+
+機械学習の学習の旅へようこそ！ 🚀
+
+このリポジトリは、私が勉強しながらさまざまな機械学習アルゴリズムを実装・練習するための個人ポートフォリオです。基礎から始め、徐々に高度なトピックへ進んでいきます。
+
+目標は、理解を深め、概念を実験し、きれいでよくドキュメント化されたコードを示すことです。
+
+## 📌 現在の進捗
+- **ANN** と **CNN** の基礎実装をPyTorchで構築中
+- 実装済み：**Deep Learning**
+
+## 📁 リポジトリ構成
+```text
+.
+├── Datasets
+├── notebooks
+│   ├── 01.Linear_Regression
+│   ├── 02.Clustering
+│   ├── 03.Decision_tree
+│   ├── 04.Random_forest
+│   ├── 05.KNN
+│   ├── 06.SVM
+│   ├── 07.Deep_Learning
+│   └── 08.Image_Processing
+├── small_projects
+├── requirements.txt
+└── README.md
+```
+
+## 🚀 今後の予定
+- ロジスティック回帰
+- 決定木・ランダムフォレスト
+- k近傍法 (KNN)
+- サポートベクターマシン (SVM)
+- k-meansクラスタリング
+- 主成分分析 (PCA)
+- 高度なニューラルネットワーク（PyTorch / TensorFlow）
+- アンサンブル学習
+- 自然言語処理（NLP）・コンピュータビジョン
+
+## ⚙️ セットアップ方法
+
+1. リポジトリをクローン：
+   ```bash
+   git clone https://github.com/Praruj/Machine_learning_portfolio.git
+   cd Machine_learning_portfolio
+   ```
+
+2. 仮想環境の作成と有効化：
+
+   **Windows**
+   ```bash
+   python -m venv .venv
+   .venv\Scripts\activate
+   ```
+
+   **macOS / Linux**
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate
+   ```
+
+3. 依存関係をインストール：
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Jupyter Notebookを起動：
+   ```bash
+   jupyter notebook
+   ```
+
+## 📚 使用技術
+- Python
+- PyTorch
+- NumPy, Pandas, Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+ご覧いただきありがとうございます！  
+質問やコラボレーションのアイデアがあればお気軽にご連絡ください。
+
+[GitHubプロフィールを見る](https://github.com/Praruj)
+
+3. Commit the changes
+
+Would you like any tweaks (more emojis, different structure, etc.)?
