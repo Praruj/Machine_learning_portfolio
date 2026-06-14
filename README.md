@@ -42,16 +42,6 @@ The goal is to deepen my understanding, experiment with concepts, and showcase c
 └── README.md
 ```
 
-## 🚀 Planned Additions
-- Logistic Regression
-- Decision Trees & Random Forests
-- K-Nearest Neighbors (KNN)
-- Support Vector Machines (SVM)
-- K-Means Clustering
-- Principal Component Analysis (PCA)
-- Advanced Neural Networks (PyTorch / TensorFlow)
-- Ensemble Methods
-- NLP & Computer Vision projects
 
 ## ⚙️ Setup
 
@@ -132,16 +122,7 @@ Thank you for visiting! Feel free to explore and reach out if you have any quest
 └── README.md
 ```
 
-## 🚀 今後の予定
-- ロジスティック回帰
-- 決定木・ランダムフォレスト
-- k近傍法 (KNN)
-- サポートベクターマシン (SVM)
-- k-meansクラスタリング
-- 主成分分析 (PCA)
-- 高度なニューラルネットワーク（PyTorch / TensorFlow）
-- アンサンブル学習
-- 自然言語処理（NLP）・コンピュータビジョン
+
 
 ## ⚙️ セットアップ方法
 
